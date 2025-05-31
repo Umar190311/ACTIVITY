@@ -1,0 +1,15 @@
+h3 {
+    color:blue; font-style:italic; 
+   }
+#s1 {
+    color:burlywood; font-style:italic;
+    }
+    .demo {
+        color:rgb(0, 138, 30); font-style:italic;font-size:19px;
+          }
+          * {
+            font-family: 'Courier New', Courier, monospace; background-color: aquamarine;
+            }
+ h5,h6 {
+         font-family:'Courier New', Courier, monospace;font-size: 19px;
+       }
